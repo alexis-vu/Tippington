@@ -1,12 +1,10 @@
 # Tippington
-8-bit themed tipping calculator
 
-
-Tippington is a tip calculator application for iOS.
+Tippington is an 8-bit themed tip calculator application for iOS.
 
 Submitted by: Alexis Vu
 
-Time spent: 18 hours
+Time spent: 20 hours
 
 ## User Stories
 
