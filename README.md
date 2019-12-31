@@ -1,4 +1,4 @@
-# Pre-work - Tippington
+# Tippington
 8-bit themed tipping calculator
 
 
