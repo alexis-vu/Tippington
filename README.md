@@ -23,6 +23,14 @@ The following **additional** features are implemented:
 
 - [x] Providing split amount of the total cost between 2, 3, 4, or a custom number of people.
 
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://imgur.com/a/qNnfqd8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Notes
 
 UI constraints currently optimized for the iPhone 11.
