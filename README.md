@@ -4,7 +4,7 @@ Tippington is a tip calculator application for iOS.
 
 Submitted by: Alexis Vu
 
-Time spent: 20 hours
+Time spent: 24 hours
 
 ## User Stories
 
