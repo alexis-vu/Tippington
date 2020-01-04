@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AD5AB82C23C0134400972B87 /* cover.png in Resources */ = {isa = PBXBuildFile; fileRef = AD5AB82B23C0134400972B87 /* cover.png */; };
 		AD61B91923AE284500D2B559 /* person.png in Resources */ = {isa = PBXBuildFile; fileRef = AD61B91823AE284500D2B559 /* person.png */; };
 		AD61B91F23AE31DC00D2B559 /* plus.png in Resources */ = {isa = PBXBuildFile; fileRef = AD61B91E23AE31DB00D2B559 /* plus.png */; };
 		AD6FE75823AB1DEA0003D7D1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD6FE75723AB1DEA0003D7D1 /* AppDelegate.swift */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AD5AB82B23C0134400972B87 /* cover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover.png; sourceTree = "<group>"; };
 		AD61B91823AE284500D2B559 /* person.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = person.png; sourceTree = "<group>"; };
 		AD61B91E23AE31DB00D2B559 /* plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plus.png; sourceTree = "<group>"; };
 		AD6FE75423AB1DEA0003D7D1 /* Tippington.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tippington.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -118,6 +120,7 @@
 				AD6FE76023AB1DEC0003D7D1 /* Assets.xcassets */,
 				AD6FE76223AB1DEC0003D7D1 /* LaunchScreen.storyboard */,
 				AD6FE76523AB1DEC0003D7D1 /* Info.plist */,
+				AD5AB82B23C0134400972B87 /* cover.png */,
 			);
 			path = Tippington;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD6FE76423AB1DEC0003D7D1 /* LaunchScreen.storyboard in Resources */,
+				AD5AB82C23C0134400972B87 /* cover.png in Resources */,
 				AD6FE76123AB1DEC0003D7D1 /* Assets.xcassets in Resources */,
 				ADC1A1F423ACC13000C45458 /* Digit.ttf in Resources */,
 				ADC1A1F823ACC20D00C45458 /* redensek.ttf in Resources */,
